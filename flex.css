@@ -1,0 +1,17 @@
+.child{
+    border: 3px solid rgb(6, 243, 184);
+    background-color: sandybrown;
+    height: 300px;
+    width: 300px;
+  */
+}
+.abu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid black;
+    height: 600px;
+    flex-direction: column;
+    
+
+}
